@@ -1,0 +1,32 @@
+img{
+  width: 500px;
+  height: 500px;
+}
+h1{
+  text-align: center;
+  background-color: #745F7A;
+  padding: 100px;
+}
+body{
+  margin: 10px auto;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+  background-color: rgb(222, 255, 196);
+  padding: 20px;
+}
+nav a:hover{
+  color: deeppink;
+  text-decoration: none;
+}
+ul a:hover{
+  color: deeppink;
+  text-decoration: none;
+}
+hr{
+  color: darkblue;
+}
+nav:hover{
+  color: deeppink;
+}

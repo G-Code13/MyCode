@@ -1,0 +1,143 @@
+body{
+  background-color: #135B96;
+}
+header{
+  border: 2px solid #E45B85;
+  background-size: contain;
+  width: 100%;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+h1, h2, h3{
+  text-align: center;
+}
+.leftTopHeading{
+  color: #DA182B;
+}
+.rightTopHeading{
+  color: #2d32d2;
+}
+.botLeftTitle{
+  color: #E45B85;
+}
+.botMiddleTitle{
+  color: #369D68;
+}
+.botRightTitle{
+  color: darkorange;
+}
+#container{
+  background-color: #EEE9E5;
+  width: 95%;
+  margin: 15px auto;
+  border: 4px solid #135B96;
+}
+nav{
+  background-color: #BABEBF;
+  padding: 2px 0;
+  text-align: center;
+}
+nav ul{
+  padding: 5px;
+  list-style-type: none;
+}
+nav li{
+  display: inline-block;
+}
+nav li a{
+  display: block;
+  background-color: #E3E4E6;
+  width: 225px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 1.3em;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 0 10px;
+}
+nav li a:hover{
+  background-color: #135B96;
+  color: #BABEBF;
+  border: 2px solid #68838C;
+}
+main{
+  display: flex;
+}
+section, aside{
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+section{
+  width: 70%;
+  border: 2px solid #A984A7;
+}
+aside{
+  width: 30%;
+  border: 2px solid #369D68;
+}
+#bottomHalf{
+  display: flex;
+}
+.colRight{
+  border: 2px solid #3197AE;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.colLeft{
+  border: 2px solid #142388;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+} 
+.colMiddle{
+  border: 2px solid #DA182B;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+} 
+footer{
+  border: 2px solid #FAF401;
+  background-color: #36C8FF;
+  text-align: center;
+  padding: 30px 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin: 5px;
+}
+.button{
+  text-align: center;
+  padding: 2px;
+  margin: 0 10px;
+  width: 100px;
+  height: 10px;
+  margin-top: 10px;
+}
+.button:hover{
+  background-color: #DA182B;
+  color: #ECE7E3;
+}
+table{
+  border: 4px solid #369D68;
+}
+td{
+  border: 2px solid #E45B85;
+  padding: 3px;
+}
+tr{
+  border: 4px solid #369D68;
+  padding: 3px;
+}
+td img{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+.studioGHeading{
+  color: white;
+}

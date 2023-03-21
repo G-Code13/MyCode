@@ -1,0 +1,18 @@
+img{
+  width: 200px;
+  padding: 20px;
+}
+h1{
+  text-align: center;
+}
+body{
+  background-color:#4784ed;
+  text-align: center;
+  width: 80%;
+  margin:30px auto;
+  padding: 20px;
+}
+html{
+  background-color: #ffdf41;
+}
+

@@ -1,0 +1,42 @@
+h1{
+  color: whitesmoke;
+  background-color: black;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+}
+p{
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+ol{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: aquamarine;
+}
+ul{
+  background-color: cornflowerblue;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: oblique;
+
+}
+
+div{
+  font-size: larger;
+  text-align: center;
+}
+
+button{
+  border-color: black;
+  border-width: 2px;
+  background-color: crimson;
+  color: aliceblue;
+}
+h3{
+  background-color: orange;
+  text-align: center;
+}
+dt{
+  cursor: pointer;
+}
